@@ -1,4 +1,4 @@
-# COVID19-DASHBOARD
+# COVID-19 DASHBOARD
 
 ![](png.jpg)
 --- 
@@ -31,7 +31,7 @@ I copy the link to the link to the raw dataset and extract the data using excel.
 
 ## Visualizations:
 
-#The visualization comprises of 5 tables;
+## _The visualization comprises of 5 tables_;
 
 1.	top Country with the highest prevalence of (confirmed Cases) of covid-19 cases
 2.	Bottom 5 countries with the lowest Prevalence of (confirmed Cases) of Covid-19
@@ -39,32 +39,50 @@ I copy the link to the link to the raw dataset and extract the data using excel.
 4.	Monthly cumulative confirmed Cases of Covid-19 since 2020
 5.	Covid-19 Icons 
 
+As shown below:
+
+![](HEAD2.png)
+![](HEAD_2.png)
+![](HEAD3.png)
+![](HEAD4.png)
+
+
+
+
 You can interact with the report [here]()
 
 ### Analysis
 
-## Top 5 countries with the highiest and lowest prevalence of covid-19
+## _Top 5 countries with the highiest and lowest prevalence of covid-19 cases_
 
-![]()
+![](HEAD_2.png)
+
 The first visual on the left shows the top 5 countries with the highest Prevalence of Covid-19 cases.
 From the look of things, it was observed that United states have the highest prevalence of (confirmed cases) of covid19 with 53,709,381,704 cases reported as at the time the data was extracted
 The second visual to the is the right is the Bottom 5 countries with the lowest Prevalence of Covid-19 cases. 
 It reveals that North Korea have the lowest Prevalence of (confirmed Cases) of Covid-19 with just 299 cases reported as at the time the data was collected
 
- ## The yearly cumulative analysis:
- ![]()
+ ## _The yearly and monthly cumulative analysis_ 
+ 
+ ![](HEAD3.png)
 
- ### The yearly cumulative analysis shows that 2022 has the highest burden of confirmed covid-19 cases of 196, 529, 309, 166
+ The yearly cumulative analysis shows that 2022 has the highest burden of confirmed covid-19 cases of 196, 529, 309, 166
+ 
+Monthly cumulative analysis:
 
-## Monthly cumulative analysis:
-The visual to the left which is monthly cumulative analysis shows that the month of April has the lowest prevalence of confirmed covid-19 cases of 19, 376, 072, 310
+The visual to the left above which is monthly cumulative analysis shows that the month of April has the lowest prevalence of confirmed covid-19 cases of 19, 376, 072, 310
+
+ ## _sum of confirmed cases since 2020 till date_ 
+ 
+ ![](HEAD4.png)
+
 
 ## Conclusion and recommendations
 
 ## Conclusion:
 
-# As at the time of this analysis;
-
+ As at the time of this analysis;
+ 
 -	The global confirmed cases are 316,233,726,170
 -	While the global death cases were 4,412,935, 
 -	The fatality rate was at 1.40%
