@@ -2,7 +2,7 @@
 
 ![](png.jpg)
 --- 
-## Intriduction
+## Introduction
 
 This is a power BI project on covid19 analysis on global confirmed cases all over the world. 
 The aim of the project is to analyze the prevalence of covid19 cases in the world and drive insights to answer important questions regarding the novel virus in order to stop the spread of the virus.
